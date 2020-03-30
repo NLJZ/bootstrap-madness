@@ -1,0 +1,13 @@
+body {
+  padding-top: 56px;
+}
+
+.container {
+  margin-bottom: 3em;
+  margin-top: 3em;
+}
+
+.jumbotron .container {
+  margin-top: 0;
+  margin-bottom 0;
+}
